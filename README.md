@@ -48,6 +48,7 @@ Check out the [sample page](?page=sample-page)
 
 _Note: if you need to use HTML elements that don't have a Markdown equivalent, you can simply add the HTML in the Markdown file. It will be ignored by the converter and kept as-is._
 
+**Check out the [test page](?page=test)**
 ## Markdown Options
 
 The library uses the [Showdown JS](https://showdownjs.com/) converter which provides some extra options for how the Markdown content will be converted. The following [Showdown options](https://showdownjs.com/docs/available-options/) are active for this library:
