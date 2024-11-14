@@ -15,3 +15,9 @@ To create a heading, add one to six # symbols before your heading text. The numb
 
 When you use two or more headings, GitHub automatically generates a table of contents that you can access by clicking  within the file header. Each heading title is listed in the table of contents and you can click a title to navigate to the selected section.
 ![Heading top](https://docs.github.com/assets/cb-82863/mw-1440/images/help/repository/headings-toc.webp)
+
+### Styling text
+You can indicate emphasis with bold, italic, strikethrough, subscript, or superscript text in comment fields and .md files.
+
+![Tablica](assets/images/slika_tablica.PNG)
+
